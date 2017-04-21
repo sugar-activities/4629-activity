@@ -1,0 +1,10 @@
+[Activity]
+name = Yellow Dot
+activity_version = 2
+license = GPLv3
+bundle_id = org.sugarlabs.ClickActivity
+exec = sugar-activity ClickActivity.ClickActivity
+icon = activity-click
+show_launcher = yes
+summary = click and shake reading game
+
